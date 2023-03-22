@@ -1,2 +1,3 @@
-# google-trips-Gabrielle-and-Valentine
+# google-trips
+
 Study Work
